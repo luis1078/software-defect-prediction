@@ -80,7 +80,7 @@ software-defect-prediction/
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/TU_USUARIO/software-defect-prediction.git
+git clone https://github.com/luis1078/software-defect-prediction.git
 cd software-defect-prediction
 
 # 2. Instalar dependencias
