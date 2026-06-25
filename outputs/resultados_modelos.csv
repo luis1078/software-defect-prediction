@@ -1,8 +1,0 @@
-Modelo,Accuracy,Precision,Recall,F1-Score,AUC-ROC,Tiempo(s)
-S1  + Sin balanceo,69.8,56.31,24.5,34.14,68.48,36.9
-S2  + Sin balanceo,71.09,60.35,27.71,37.98,68.74,32.6
-S3A + Sin balanceo,71.64,61.35,30.39,40.64,70.32,53.8
-S3A + Oversampling,67.49,48.86,37.35,42.34,67.23,68.5
-S3A + SMOTE,70.79,54.79,49.0,51.73,70.22,85.2
-S3B + Sin balanceo,71.69,61.46,30.52,40.79,70.32,55.2
-S3B + Oversampling,67.49,48.86,37.35,42.34,67.23,71.4
